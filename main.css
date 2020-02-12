@@ -3,3 +3,14 @@ footer {
   padding-bottom: 1em;
   background-color: aliceblue;
 }
+
+h4{
+  color: blue;
+}
+
+.footerText {
+  
+  text-align: center; 
+  background: #8ecedf;
+  color: rgb(94, 17, 17); 
+  }
